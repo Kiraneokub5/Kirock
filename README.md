@@ -1,4 +1,4 @@
-# korennoj Gleb
+/*# korennoj Gleb
 Home Work for Cursera - HTML:
 <!DOCTYPE html>
 <html lang="en">
@@ -33,3 +33,4 @@ Home Work for Cursera - HTML:
 </body>
 
 </html>
+*/
